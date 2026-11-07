@@ -1,0 +1,8 @@
+{
+  "name": "Smart Taxi Solutions — Driver Training & Study Planner",
+  "description": "Specialized training, study, and council licensing exam planner for private hire and hackney carriage driver trainees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
